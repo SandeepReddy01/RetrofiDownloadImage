@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Retrofit 2.0 Image Download</string>
+    <string name="action_settings">Settings</string>
+</resources>
